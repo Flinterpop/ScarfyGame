@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level 1.tmj",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Environment Props.tsj": {
+            "scaleInDock": 1
+        },
+        "Ground.tsj": {
+            "scaleInDock": 1
+        },
+        "Level 1.tmj": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 6738,
+                "y": 3354
+            }
+        },
+        "spirit.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "map.height": 90000,
+    "map.width": 90000,
+    "openFiles": [
+        "Level 1.tmj"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "Level 1.tmj",
+        "spirit.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
